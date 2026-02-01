@@ -4,15 +4,6 @@ Rapport de Mission Digitale "Le futur n'est qu'un point de départ."
 🌌 Vision & Direction Artistique 
 Pour ce projet, nous avons transcendé les codes traditionnels du web pour embrasser une esthétique Futuriste High-End. Inspiration : Notre DA s'inspire des chefs-d'œuvre de la science-fiction temporelle (Interstellar, Tenet, Minority Report). Design : Interface en Dark Mode profond, accents néons pour évoquer les interfaces de navigation spatio-temporelle. Expérience : Une immersion totale où l'utilisateur ne consulte pas un site, mais pilote un terminal de saut temporel.
 
-message.txt
-3 KB
-﻿
-```🛸 TimeTravel Agency 
-Rapport de Mission Digitale "Le futur n'est qu'un point de départ."
-
-🌌 Vision & Direction Artistique 
-Pour ce projet, nous avons transcendé les codes traditionnels du web pour embrasser une esthétique Futuriste High-End. Inspiration : Notre DA s'inspire des chefs-d'œuvre de la science-fiction temporelle (Interstellar, Tenet, Minority Report). Design : Interface en Dark Mode profond, accents néons pour évoquer les interfaces de navigation spatio-temporelle. Expérience : Une immersion totale où l'utilisateur ne consulte pas un site, mais pilote un terminal de saut temporel.
-
 👥 L'Équipe
 ALBERT Nathalie Lead Developer & Vibe Coding
 REMADNA Doria UI/UX Designer & Prompt Engineer
